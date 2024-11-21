@@ -1,4 +1,4 @@
-## Monthly Financial Planner Pro
+# Monthly Financial Planner Pro
 
 ![alt text](https://github.com/F13ND5/Monthly-Planner-Pro/blob/dev/Monthly%20Financial%20Planner%20Pro%20logo.png)
 
