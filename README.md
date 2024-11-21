@@ -1,6 +1,6 @@
 # Monthly Financial Planner Pro
 
-![alt text](https://github.com/F13ND5/Monthly-Planner-Pro/blob/dev/Monthly%20Financial%20Planner%20Pro%20logo.png)
+![alt text](https://github.com/F13ND5/Monthly-Planner-Pro/blob/main/Monthly%20Financial%20Planner%20Pro%20logo.png)
 
 Monthly Financial Planner Pro is a comprehensive web application designed to help users efficiently manage their monthly finances. It features advanced tools such as income and expense tracking, automated future planning, real-time synchronization, and financial data integration using Plaid and OpenBanking APIs.
 
@@ -152,7 +152,7 @@ git push origin feature-name
 ---
 
 ## 📝 License
-This project is licensed under the **MIT License**. See the [LICENSE]() file for more details.
+This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/F13ND5/Monthly-Planner-Pro/blob/main/LICENSE) file for more details.
 
 ---
 
